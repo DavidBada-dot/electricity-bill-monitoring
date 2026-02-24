@@ -1,0 +1,5 @@
+===== BILL SUMMARY =====
+Total Energy: 0.3 kWh/day
+Tariff: 0.9 per kWh
+Total Cost: 0.27
+----------------------------
