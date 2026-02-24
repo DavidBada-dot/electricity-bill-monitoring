@@ -1,0 +1,1 @@
+Bulb, 25W, 12 hrs, 0.3 kWh/day
